@@ -51,7 +51,7 @@ _이텔릭_
 
 ![HEROFY](https://heropy.blog/css/images/logo.png)
 
-[![HEROFY](https://heropy.blog/css/images/logo.png)](http://heropy.blog/)
+[![HEROFY](https://heropy.blog/css/images/logo.png)](http://naver.com /)
 
 
 # 인용문(BlockQuite)
@@ -110,7 +110,7 @@ static | 기준 없음 | O
 
 <a href="naver.com" title="네이버로 이동!" target="_blank">Naver</a>
 
-<img width="50" src="https://heropy.blog/css/images/logo.png" alt="HEROPY" />
+<img width="50" src="http://naver.com" alt="NAVER" />
 
 
 # 수평선(Horizontal Rule)
